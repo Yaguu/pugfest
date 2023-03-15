@@ -1,0 +1,71 @@
+.all {
+  background-color: #F2E8DF;
+  border-top: 2px black solid;
+}
+
+
+.b1 {
+
+  padding: 30px 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.title {
+  padding: 0 10px;
+
+  margin: 0 auto;
+}
+
+.title h1 {
+  font-size: 2em;
+}
+
+.title h2 {
+  font-size: 1em;
+}
+
+.PugPhoto {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.b2 {
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.b2 h1 {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.b2 h2 {
+
+  margin-left: 10px;
+}
+
+.social div {
+  margin: 0 auto;
+
+  margin-top: 1em;
+}
+
+.social img {
+  width: 3em;
+
+  margin-left: 15px;
+
+}
+ 
+.social {
+  padding: 0 15px;
+}
+
+.social img, h2 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
