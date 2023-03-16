@@ -24,7 +24,7 @@ const Home = () => {
       </div>
       <div className={styles.social}>
         <div className={styles.web}>
-          <a href="http://wa.me/555381143471">
+          <a href="http://wa.me/5553991542488">
           <img src={wppicon} alt="" />
           <h2>Whatsapp</h2>
           </a>
